@@ -4,6 +4,6 @@ This project stores the model used by https://github.com/jordimassaguerpla/chest
 
 # Legal
 
-You are not allowed to use the model for commercial purposes nor there is no guarantee of any kind. If you use this model, please cite DeepLearning.AI as the source of it.
+You are not allowed to use the model for commercial purposes nor there is no guarantee of any kind. If you use this model, please cite [DeepLearning.AI](https://deeplearning.ai) as the source of it.
 
 
