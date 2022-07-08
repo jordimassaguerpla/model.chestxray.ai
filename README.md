@@ -1,6 +1,6 @@
 # model.chestxray.ai
 
-This project stores the model used for See https://github.com/jordimassaguerpla/chestxray.ai
+This project stores the model used by https://github.com/jordimassaguerpla/chestxray.ai
 
 # Legal
 
