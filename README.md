@@ -3,6 +3,7 @@
 This project stores the model used by https://github.com/jordimassaguerpla/chestxray.ai
 
 `saved_model.h5` is the original model.
+`saved_model.h5.sha256` is the sha256sum of `saved_model.h5`.
 
 `saved_model.tfjs` is the javascript one.
 
